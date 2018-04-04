@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522784276 source:c:\users\elyston\desktop\meus testes\funções arvore binaria\arvbin.c
+	"ARVBIN.h"
+
+1522782854 c:\users\elyston\desktop\meus testes\funções arvore binaria\arvbin.h
+	<stdio.h>
+
+1522801247 source:c:\users\elyston\desktop\meus testes\exercicio\questão 3\questão 3\main.c
+	"../../../funções arvore binaria/ARVBIN.h"
+

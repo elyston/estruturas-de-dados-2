@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522682582 source:c:\users\elyston\desktop\meus testes\filas dinamicas\fila.c
+	"FILA.h"
+
+1522680012 c:\users\elyston\desktop\meus testes\filas dinamicas\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1522682561 source:c:\users\elyston\desktop\meus testes\filas dinamicas\main.c
+	"FILA.h"
+

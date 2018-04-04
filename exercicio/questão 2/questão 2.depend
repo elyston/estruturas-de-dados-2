@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1522784276 source:c:\users\elyston\desktop\projetos ed2\teste_arvore binaria\arvbin.c
+	"ARVBIN.h"
+
+1522782854 c:\users\elyston\desktop\projetos ed2\teste_arvore binaria\arvbin.h
+	<stdio.h>
+
+1522682582 source:c:\users\elyston\desktop\meus testes\filas dinamicas\fila.c
+	"FILA.h"
+
+1522680012 c:\users\elyston\desktop\meus testes\filas dinamicas\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1522784276 source:c:\users\elyston\desktop\meus testes\funções arvore binaria\arvbin.c
+	"ARVBIN.h"
+
+1522782854 c:\users\elyston\desktop\meus testes\funções arvore binaria\arvbin.h
+	<stdio.h>
+
+1522792100 source:c:\users\elyston\desktop\meus testes\exercicio\questão 2\main.c
+	"../../filas dinamicas/FILA.h"
+	"../../funções arvore binaria/ARVBIN.h"
+
